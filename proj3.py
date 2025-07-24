@@ -16,3 +16,5 @@ if num == sum:
     print(num," is an Armstrong number") 
 else:
     print(num," is unfortunately not an Armstrong number")
+
+#plz support and try out this code
